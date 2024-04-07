@@ -1,5 +1,7 @@
 Frontend para o site de uma barbearia, feito para o Projeto Integrador da Univesp.
 
+Tecnologias usadas até aqui: React Js, Bootstrap, CSS e HTML.
+
 Para executar a aplicação é necessário:
 
 1. Baixar o código-fonte ou clonar o repositório
