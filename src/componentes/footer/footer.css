@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"); 
+
+
+footer {
+    height: 80px;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    /*position: absolute;
+    bottom: 0; */
+    width: 100%;
+    font-family: "Roboto Condensed", sans-serif;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

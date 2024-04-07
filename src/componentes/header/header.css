@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"); 
+
+
+.navstyle {
+    height: 80px;
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav div {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+
+.navlist {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.navlist li {
+    margin-left: 20px;
+}
